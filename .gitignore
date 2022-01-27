@@ -3,3 +3,4 @@ qrimage
 *.pdf
 *.csv
 *.json
+!qrd.htm
